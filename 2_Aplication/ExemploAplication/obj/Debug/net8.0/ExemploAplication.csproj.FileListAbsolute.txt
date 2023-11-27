@@ -1,0 +1,15 @@
+D:\Projetos\RestSharp_02\2_Aplication\ExemploAplication\bin\Debug\net8.0\ExemploAplication.deps.json
+D:\Projetos\RestSharp_02\2_Aplication\ExemploAplication\bin\Debug\net8.0\ExemploAplication.dll
+D:\Projetos\RestSharp_02\2_Aplication\ExemploAplication\bin\Debug\net8.0\ExemploAplication.pdb
+D:\Projetos\RestSharp_02\2_Aplication\ExemploAplication\obj\Debug\net8.0\ExemploAplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\RestSharp_02\2_Aplication\ExemploAplication\obj\Debug\net8.0\ExemploAplication.AssemblyInfoInputs.cache
+D:\Projetos\RestSharp_02\2_Aplication\ExemploAplication\obj\Debug\net8.0\ExemploAplication.AssemblyInfo.cs
+D:\Projetos\RestSharp_02\2_Aplication\ExemploAplication\obj\Debug\net8.0\ExemploAplication.csproj.CoreCompileInputs.cache
+D:\Projetos\RestSharp_02\2_Aplication\ExemploAplication\obj\Debug\net8.0\ExemploAplication.dll
+D:\Projetos\RestSharp_02\2_Aplication\ExemploAplication\obj\Debug\net8.0\refint\ExemploAplication.dll
+D:\Projetos\RestSharp_02\2_Aplication\ExemploAplication\obj\Debug\net8.0\ExemploAplication.pdb
+D:\Projetos\RestSharp_02\2_Aplication\ExemploAplication\obj\Debug\net8.0\ref\ExemploAplication.dll
+D:\Projetos\RestSharp_02\2_Aplication\ExemploAplication\bin\Debug\net8.0\Repositories.dll
+D:\Projetos\RestSharp_02\2_Aplication\ExemploAplication\bin\Debug\net8.0\Repositories.pdb
+D:\Projetos\RestSharp_02\2_Aplication\ExemploAplication\obj\Debug\net8.0\ExemploAplication.csproj.AssemblyReference.cache
+D:\Projetos\RestSharp_02\2_Aplication\ExemploAplication\obj\Debug\net8.0\ExemploAplication.csproj.CopyComplete
