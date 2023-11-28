@@ -9,5 +9,6 @@ namespace Model
     public class Livro
     {
         public string Nome { get; set; }
+		public string Autor { get; set; }
     }
 }
