@@ -9,6 +9,7 @@ namespace Repositories
 {
     public class LivrosRepository
     {
+        // Classe de conexão com o banco de dados
         Conexao conexao = new Conexao();
 
         public List<string> Obterlivros()
