@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cSmt7qqT73rR8SP3dVofsfmRzHj+d2zfCmmT9oEOWzaqQLZPnJJgPj5iOmGDp80CymqVeq5CV04aQ95RfI4M+Q==",
+  "dgSpecHash": "27ijVt9RMPlA0gnvGkb8ytmeAAyzjQ8ABtgqFD4fazWHCWHay6qMo6mXADckM48+J2KnG40E6TTeybgiDA7QQg==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\Hexagonal\\3_Model\\Model\\Model.csproj",
+  "projectFilePath": "/home/rodrigo/Git/Sielanis.Hexagonal/3_Model/Model/Model.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

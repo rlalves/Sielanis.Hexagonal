@@ -1779,30 +1779,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Raazak\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/rodrigo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "/home/rodrigo/Git/Sielanis.Hexagonal/4_DriverAdapter/Repositories/Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "D:\\Projetos\\Repositories\\Repositories.csproj",
-      "packagesPath": "C:\\Users\\Raazak\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\Repositories\\obj\\",
+      "projectPath": "/home/rodrigo/Git/Sielanis.Hexagonal/4_DriverAdapter/Repositories/Repositories.csproj",
+      "packagesPath": "/home/rodrigo/.nuget/packages/",
+      "outputPath": "/home/rodrigo/Git/Sielanis.Hexagonal/4_DriverAdapter/Repositories/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Raazak\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/rodrigo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1842,7 +1836,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
